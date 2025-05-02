@@ -3,7 +3,7 @@ Principles of Programming Language
 
 ## **How to execute my JavaScript Program:** ##
 
-### **Locally:** ###
+### **Locally: (I use VSCode) ** ###
 1. Check if you have Node.js installed (https://nodejs.org/en). Without it, you cannot run the program in terminal. (Do node -v to check for version in cmd)
 2. In the same folder you have my hw4.js, ensure you have good.txt, bad.txt, review.txt, or any other .txt files you want to test the Social Sentiment Score on. 
 3. Open new terminal in VSCode and navigate to the folder with all the contents mentioned above.
