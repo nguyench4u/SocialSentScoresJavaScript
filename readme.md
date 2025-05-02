@@ -1,7 +1,5 @@
-Chau Nguyen  
 HW4  
 Principles of Programming Language  
-Sung Nam  
 
 ## **How to execute my JavaScript Program:** ##
 
